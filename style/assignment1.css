@@ -72,3 +72,11 @@ h1{
     text-decoration: none;
     
 }
+/* main1 style */
+
+.main1-body{
+    display: flex;
+}
+.main1{
+    margin: 60px auto;
+}
