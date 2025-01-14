@@ -3,3 +3,13 @@
     display: flex; 
     justify-content: space-between;
 }
+.primary-btn{
+    padding: 15px 30px;
+    cursor: pointer;
+    border-radius: 8px;
+    color: #006A50;
+    border: 1px solid #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    width: 116px 52px;
+}
