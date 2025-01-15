@@ -212,3 +212,29 @@ h1{
  border: none;
  background-color: rgba(255, 194, 57, 1);
 }
+.sec4{
+    margin: 80px auto;
+    width: 1260px;
+    height: 256px;
+}
+.sec4-des{
+    background-image: url("/images/quote-bg.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding: 20px 0 0 0;
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.8);
+    margin-bottom: 12px;
+}
+.sec4-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 700px;
+    margin-bottom: 4px;
+}
+.sec4-subtitle{
+    color: rgba(14, 14, 14, 0.6);
+    font-size: 16;
+    font-weight: 400px;
+}
