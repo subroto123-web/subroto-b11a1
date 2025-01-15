@@ -1,3 +1,8 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+  }
+
 .nav-style{
     padding: 18px 120px;
     display: flex; 
