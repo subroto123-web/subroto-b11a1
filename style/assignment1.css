@@ -7,6 +7,7 @@
     padding: 18px 120px;
     display: flex; 
     justify-content: space-between;
+    margin: 20px auto;
 }
 .primary-btn{
     padding: 15px 30px;
@@ -77,8 +78,9 @@ h1{
 .sec1-img{
     width: 360px;
     height: 300px;
-    padding-right: 140px;
+    
     padding-bottom: 150px;
+    margin-right: 120px;
 }
 .sec1-btn a{
     text-decoration: none;
@@ -122,7 +124,9 @@ h1{
 }
 /* sec2 style */
 .sec2{
-    margin: 80px 160px 32px 160px;
+    margin: 20px 140px;
+    width: 1280 px;
+    height: 120px;
     
 
 }
@@ -144,6 +148,38 @@ h1{
     display: flex;
     width: 1280px;
     height: 325px;
-    margin: 40px 160px;
+    margin: 80px auto;
+    justify-content: space-around;
+    
 }
+.sec3-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+}
+.sec3-description{
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.7);
 
+}
+.sec3-div1{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 40px;
+    width: 302px;
+    border-radius: 16px;
+}
+.sec3-div2{
+    background-color: rgba(198, 228, 214, 1);
+    padding: 40px;
+    width: 302px;
+    border-radius: 16px;
+}
+.sec3-div3{
+    rgba(247, 235, 207, 1);
+    padding: 40px;
+    width: 302px;
+    border-radius: 16px;
+
+    
+}
