@@ -89,9 +89,10 @@ h1{
 .main1-body{
     display: flex;
     
+    
 }
 .main1{
-    margin: 60px auto;
+    margin: 80px auto;
     width: 1280px;
     height: 324px;
 }
@@ -99,9 +100,15 @@ h1{
     margin-bottom: 32px;
 }
 .main1-div{
-    width: 302px;
-    height: 1000px;
+    width: 250px;
+    height: 270px;
     margin: 0px auto;
+    border: 2px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 0px auto;
+    padding: 15px;
+    
+    
 }
 .main1-title{
     font-size: 20px;
@@ -130,5 +137,13 @@ h1{
     font-weight: 400px;
     color: rgba(14, 14, 14, 0.7);
     margin-top: 24px;
+}
+/* sec3 style */
+
+.sec3{
+    display: flex;
+    width: 1280px;
+    height: 325px;
+    margin: 40px 160px;
 }
 
