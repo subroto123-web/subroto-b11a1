@@ -88,7 +88,29 @@ h1{
 
 .main1-body{
     display: flex;
+    
 }
 .main1{
     margin: 60px auto;
+    width: 1280px;
+    height: 324px;
 }
+.main1-head{ 
+    margin-bottom: 32px;
+}
+.main1-div{
+    width: 302px;
+    height: 1000px;
+    margin: 0px auto;
+}
+.main1-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+}
+.main1-description{
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
