@@ -176,10 +176,39 @@ h1{
     border-radius: 16px;
 }
 .sec3-div3{
-    rgba(247, 235, 207, 1);
+    background-color: rgba(247, 235, 207, 1);
     padding: 40px;
     width: 302px;
     border-radius: 16px;
 
     
+}
+
+.sec3-button1{
+ background-color: rgba(84, 144, 245, 1);  
+ font-size: 16px;
+ font-weight: 700px;
+ border-radius: 8px; 
+ padding: 13px;
+ color: #ffffff;
+ border: none;
+}
+.sec3-button2{
+    font-size: 16px;
+ font-weight: 700px;
+ border-radius: 8px; 
+ padding: 13px;
+ color: #ffffff;
+ border: none;
+ background-color: rgba(9, 161, 92, 1);
+}
+
+.sec3-button3{
+    font-size: 16px;
+ font-weight: 700px;
+ border-radius: 8px; 
+ padding: 13px;
+ color: #ffffff;
+ border: none;
+ background-color: rgba(255, 194, 57, 1);
 }
