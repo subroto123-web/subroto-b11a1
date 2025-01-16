@@ -289,3 +289,78 @@ h1{
     border: none;
     color: #ffffff;
 }
+/* sec6 style */
+
+.sec6{
+    width: 1280px;
+    
+    margin: 80px 160px 80px 160px;
+    
+    
+    
+}
+.sec6-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+}
+
+.sec6-pera{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+}
+.sec6-taka{
+    display: flex;
+    justify-content: space-around;
+}
+.sec6-text{
+    width: 1032px;
+    height: 64px;
+    text-align: center;
+    padding: 20px 40px;
+    justify-content: center;
+    margin: 32px 124px;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.3);
+    align-items: center;
+    border: none;
+}
+
+.tk{
+    width: 240px;
+    height: 128px; 
+    border-radius: 16px;
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background-color: rgba(198, 228, 214, 1);
+    gap: 24px;
+    align-content: center;
+
+    cursor: pointer;
+    
+    justify-content: center;
+}
+.sec6-btn{
+    background-color: rgba(0, 106, 80, 1);  
+    font-size: 18px;
+    font-weight: 700;
+    padding: 17px 34px; 
+    border: none; 
+    color: #ffffff;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    justify-content: center;
+}
+.sec6-div1{
+    margin-left: auto;
+    margin-right: auto;
+}
