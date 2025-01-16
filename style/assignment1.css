@@ -240,3 +240,20 @@ h1{
     font-size: 16;
     font-weight: 400px;
 }
+/* sec5 style */
+
+.sec5{
+    width: 1280px;
+    margin: 30px auto;
+}
+.sec5-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+}
+.sec5-des{
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.7);
+    margin-top: 24px;
+}
