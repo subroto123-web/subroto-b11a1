@@ -363,3 +363,64 @@ h1{
     margin-left: 47%;
     margin-right: 53%;
 }
+.sec7{
+    width: 1280px;
+    margin: 60px 160px;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(198, 228, 214, 1);
+    align-content: center;
+    height: 395px;
+    border-radius: 24px;
+}
+.sec7-title{
+    font-size: 40px;
+    columns: rgba(14, 14, 14, 1);
+}
+.sec7-pera{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+.sec7-text{
+    
+    width: 600px;
+    height: 55px;
+    font-size: 16px;
+    
+    color: rgba(14, 14, 14, 0.3);
+    
+    border-radius: 8px 0 0 8px;
+    justify-content: ;
+    align-content: center;
+    padding-left:  40px;
+    border: none;
+}
+.sec7-btn{
+    background-color: rgba(0, 106, 80, 1);
+    width: 150px;
+    height: 58px;
+    padding: 17px 34px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 0 8px 8px 0;
+    border: none;
+}
+.sec7-div{
+    display: flex;
+    justify-content: center;
+    gap: 0;
+}
+.sec7-pera2{
+    font-size: 16px;
+    margin-top: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    
+}
+.sec7-pera{
+    width: 622px;
+    height: 48px;
+    justify-content: center;text-align: center;
+    margin-left: 329px;
+}
