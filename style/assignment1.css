@@ -348,19 +348,18 @@ h1{
     
     justify-content: center;
 }
-.sec6-btn{
-    background-color: rgba(0, 106, 80, 1);  
-    font-size: 18px;
-    font-weight: 700;
-    padding: 17px 34px; 
-    border: none; 
+.sec6-btn1{
+    display: block;
+    background-color: rgba(0, 106, 80, 1);
     color: #ffffff;
     border-radius: 8px;
-    text-align: center;
-    cursor: pointer;
-    justify-content: center;
+    border-color: rgba(14, 14, 14, 0.1);
+    font-size: 18px;
+    font-weight: 600;
+    width: 151px;
+    height: 56px;
 }
 .sec6-div1{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 47%;
+    margin-right: 53%;
 }
